@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_16" data-name="長方形 16" width="22" height="22" transform="translate(-2387 -4895)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="cat_icon05_active" transform="translate(2387 4895)" clip-path="url(#clip-path)">
+    <g id="Group_41" data-name="Group 41" transform="translate(-2386 -4892)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M0,4.97A4.918,4.918,0,0,0,4.864,9.94,4.918,4.918,0,0,0,9.728,4.97,4.918,4.918,0,0,0,4.864,0,4.918,4.918,0,0,0,0,4.97Z" transform="translate(0 1.603)" fill="none" stroke="#fec32d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.618"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M0,.718l1.643,2L3.989,0" transform="translate(3.221 4.176)" fill="none" stroke="#fec32d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.618"/>
+      <g id="Group_8" data-name="Group 8" transform="translate(1.404 6.466)">
+        <path id="Fill_5" data-name="Fill 5" d="M0,.208H.614" fill="#fff"/>
+        <path id="Stroke_7" data-name="Stroke 7" d="M0,.208H.614" fill="none" stroke="#fec32d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.618"/>
+      </g>
+      <g id="Group_12" data-name="Group 12" transform="translate(4.76 3.038)">
+        <path id="Fill_9" data-name="Fill 9" d="M.208.614V0" fill="#fff"/>
+        <path id="Stroke_11" data-name="Stroke 11" d="M.208.614V0" fill="none" stroke="#fec32d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.618"/>
+      </g>
+      <g id="Group_16" data-name="Group 16" transform="translate(8.017 6.742)">
+        <path id="Fill_13" data-name="Fill 13" d="M.614.208H0" fill="#fff"/>
+        <path id="Stroke_15" data-name="Stroke 15" d="M.614.208H0" fill="none" stroke="#2e2d2c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.618"/>
+      </g>
+      <g id="Group_20" data-name="Group 20" transform="translate(4.76 9.795)">
+        <path id="Fill_17" data-name="Fill 17" d="M.208,0V.614" fill="#fff"/>
+        <path id="Stroke_19" data-name="Stroke 19" d="M.208,0V.614" fill="none" stroke="#fec32d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.618"/>
+      </g>
+      <path id="Stroke_21" data-name="Stroke 21" d="M3.491,0H0V3.567H3.491A1.765,1.765,0,0,0,5.236,1.783,1.765,1.765,0,0,0,3.491,0Z" transform="translate(14.764 8.316)" fill="none" stroke="#fec32d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.618"/>
+      <path id="Stroke_23" data-name="Stroke 23" d="M0,5.189A1.6,1.6,0,0,1,.36,4.152a1.6,1.6,0,0,0,.36-1.038A1.6,1.6,0,0,0,.36,2.076,1.6,1.6,0,0,1,0,1.038,1.6,1.6,0,0,1,.36,0" transform="translate(10.914 1.943)" fill="none" stroke="#fec32d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.618"/>
+      <path id="Stroke_25" data-name="Stroke 25" d="M0,6.161A1.9,1.9,0,0,1,.427,4.929,1.9,1.9,0,0,0,.854,3.7,1.9,1.9,0,0,0,.427,2.465,1.9,1.9,0,0,1,0,1.232,1.9,1.9,0,0,1,.427,0" transform="translate(12.574 0.971)" fill="none" stroke="#fec32d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.618"/>
+      <path id="Stroke_27" data-name="Stroke 27" d="M0,7.133A2.2,2.2,0,0,1,.494,5.706,2.2,2.2,0,0,0,.989,4.28,2.2,2.2,0,0,0,.494,2.853,2.2,2.2,0,0,1,0,1.427,2.2,2.2,0,0,1,.494,0" transform="translate(14.235)" fill="none" stroke="#fec32d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.618"/>
+      <path id="Fill_29" data-name="Fill 29" d="M0,0V3.365a4.542,4.542,0,0,0,4.492,4.59,4.542,4.542,0,0,0,4.492-4.59V0Z" transform="translate(8.017 6.849)" fill="#fff"/>
+      <path id="Stroke_31" data-name="Stroke 31" d="M0,0V3.365a4.542,4.542,0,0,0,4.492,4.59,4.542,4.542,0,0,0,4.492-4.59V0Z" transform="translate(8.017 6.849)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.615"/>
+      <path id="Stroke_33" data-name="Stroke 33" d="M3.1,0V1.945A3.14,3.14,0,0,1,0,5.115" transform="translate(12.509 8.269)" fill="none" stroke="#fec32d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.618"/>
+      <path id="Stroke_35" data-name="Stroke 35" d="M0,0V3.365a4.542,4.542,0,0,0,4.492,4.59,4.542,4.542,0,0,0,4.492-4.59V0Z" transform="translate(8.017 6.849)" fill="none" stroke="#fec32d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.538"/>
+      <path id="Fill_37" data-name="Fill 37" d="M9.94,1.49H1.376A1.453,1.453,0,0,1,0,.015V0H11.316V.015A1.453,1.453,0,0,1,9.94,1.49" transform="translate(6.851 14.51)" fill="#fff"/>
+      <path id="Stroke_39" data-name="Stroke 39" d="M9.94,1.49H1.376A1.453,1.453,0,0,1,0,.015V0H11.316V.015A1.453,1.453,0,0,1,9.94,1.49Z" transform="translate(6.851 14.51)" fill="none" stroke="#fec32d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.618"/>
+    </g>
+  </g>
+</svg>

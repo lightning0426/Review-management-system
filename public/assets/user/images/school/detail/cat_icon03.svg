@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_6" data-name="長方形 6" width="22" height="22" transform="translate(-2359 -4967)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="cat_icon03" transform="translate(2359 4967)" clip-path="url(#clip-path)">
+    <g id="Group_33" data-name="Group 33" transform="translate(-2358 -4966)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M1.633,3.291A1.645,1.645,0,1,1,3.266,1.646,1.641,1.641,0,0,1,1.633,3.291Z" transform="translate(2.566)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.687"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M8.4,1.837,8.03,6.9c-.052.6-.861,1.126-1.51,1.223l-.085.01L5.94,14.868a.518.518,0,0,1-.5.482H2.959a.518.518,0,0,1-.5-.482l-.5-6.739-.085-.01C1.23,8.022.422,7.5.369,6.9L0,1.925c0-.042,0-.07,0-.086A1.818,1.818,0,0,1,1.728,0H6.666A1.818,1.818,0,0,1,8.4,1.837Z" transform="translate(0 4.65)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.687"/>
+      <path id="Stroke_5" data-name="Stroke 5" d="M.127,0V7.034" transform="translate(4.071 12.966)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.687"/>
+      <path id="Stroke_7" data-name="Stroke 7" d="M.413,5.62,0,0" transform="translate(1.551 7.159)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.687"/>
+      <path id="Stroke_9" data-name="Stroke 9" d="M1.633,3.291A1.645,1.645,0,1,1,3.266,1.646,1.641,1.641,0,0,1,1.633,3.291Z" transform="translate(13.216)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.687"/>
+      <path id="Stroke_11" data-name="Stroke 11" d="M8.4,1.837,8.029,6.9c-.052.6-.861,1.126-1.51,1.223l-.085.01-.495,6.739a.518.518,0,0,1-.5.482H2.959a.518.518,0,0,1-.5-.482l-.5-6.739-.085-.01C1.23,8.022.422,7.5.369,6.9L0,1.925c0-.042,0-.07,0-.086A1.818,1.818,0,0,1,1.728,0H6.665A1.818,1.818,0,0,1,8.4,1.837Z" transform="translate(10.65 4.65)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.687"/>
+      <path id="Stroke_13" data-name="Stroke 13" d="M.127,0V7.034" transform="translate(14.721 12.966)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.687"/>
+      <path id="Stroke_15" data-name="Stroke 15" d="M0,5.62.413,0" transform="translate(17.084 7.159)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.687"/>
+      <path id="Stroke_17" data-name="Stroke 17" d="M0,.128H5.023" transform="translate(4.198 7.598)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.062"/>
+      <path id="Stroke_19" data-name="Stroke 19" d="M1.75,3.006,0,1.5,1.75,0" transform="translate(4.198 6.222)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.687"/>
+      <path id="Stroke_21" data-name="Stroke 21" d="M0,.128H6.507" transform="translate(4.198 7.598)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.687"/>
+      <path id="Stroke_23" data-name="Stroke 23" d="M0,.128H1.913" transform="translate(9.434 8.257)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.687"/>
+      <path id="Stroke_25" data-name="Stroke 25" d="M5.2.128H0" transform="translate(9.651 9.246)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.062"/>
+      <path id="Stroke_27" data-name="Stroke 27" d="M0,0,1.75,1.5,0,3.006" transform="translate(13.098 7.871)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.687"/>
+      <path id="Stroke_29" data-name="Stroke 29" d="M6.663.128H0" transform="translate(8.184 9.246)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.687"/>
+      <path id="Stroke_31" data-name="Stroke 31" d="M1.913.128H0" transform="translate(7.525 8.587)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.687"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<svg id="search_btn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H17.875V1.625H0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Clip_7" data-name="Clip 7" d="M0,0H2.438V1.625H0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Clip_12" data-name="Clip 12" d="M0,0H8.125V1.625H0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Clip_15" data-name="Clip 15" d="M0,0H12.188V1.625H0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Clip_22" data-name="Clip 22" d="M0,0H5.688V5.688H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle" width="50" height="50" rx="5" fill="#fec32d"/>
+  <g id="Group_24" data-name="Group 24" transform="translate(13 14)">
+    <g id="Group_3" data-name="Group 3" transform="translate(8.125 9.75)">
+      <path id="Clip_2-2" data-name="Clip 2" d="M0,0H17.875V1.625H0Z" fill="none"/>
+      <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+        <path id="Fill_1" data-name="Fill 1" d="M17.207,0H0A4.56,4.56,0,0,1,.073.812,4.56,4.56,0,0,1,0,1.625H17.207a.751.751,0,0,0,.668-.813A.751.751,0,0,0,17.207,0" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Fill_4" data-name="Fill 4" d="M2.438,0H.616A.735.735,0,0,0,0,.812a.735.735,0,0,0,.616.813H2.438A4.926,4.926,0,0,1,2.438,0" transform="translate(0 9.75)" fill="#fff"/>
+    <g id="Group_8" data-name="Group 8" transform="translate(23.563 2.438)">
+      <path id="Clip_7-2" data-name="Clip 7" d="M0,0H2.438V1.625H0Z" fill="none"/>
+      <g id="Group_8-2" data-name="Group 8" clip-path="url(#clip-path-2)">
+        <path id="Fill_6" data-name="Fill 6" d="M1.74,0H0A4.369,4.369,0,0,1,.076.813,4.369,4.369,0,0,1,0,1.625H1.74a.761.761,0,0,0,.7-.812A.761.761,0,0,0,1.74,0" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Fill_9" data-name="Fill 9" d="M17.875,0H.656A.747.747,0,0,0,0,.813a.747.747,0,0,0,.656.812H17.875a4.628,4.628,0,0,1,0-1.625" transform="translate(0 2.438)" fill="#fff"/>
+    <g id="Group_13" data-name="Group 13" transform="translate(17.875 17.875)">
+      <path id="Clip_12-2" data-name="Clip 12" d="M0,0H8.125V1.625H0Z" fill="none"/>
+      <g id="Group_13-2" data-name="Group 13" clip-path="url(#clip-path-3)">
+        <path id="Fill_11" data-name="Fill 11" d="M7.442,0H0A4.46,4.46,0,0,1,.075.813,4.46,4.46,0,0,1,0,1.625H7.442A.756.756,0,0,0,8.125.813.756.756,0,0,0,7.442,0" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_16" data-name="Group 16" transform="translate(0 17.875)">
+      <path id="Clip_15-2" data-name="Clip 15" d="M0,0H12.188V1.625H0Z" fill="none"/>
+      <g id="Group_16-2" data-name="Group 16" clip-path="url(#clip-path-4)">
+        <path id="Fill_14" data-name="Fill 14" d="M12.188,0H.647A.744.744,0,0,0,0,.813a.744.744,0,0,0,.647.813H12.188a4.693,4.693,0,0,1,0-1.625" transform="translate(0)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Fill_17" data-name="Fill 17" d="M2.844,5.687A2.843,2.843,0,0,1,.067,2.232a2.843,2.843,0,0,1,5.554,0A2.843,2.843,0,0,1,2.844,5.687Zm0-4.463a1.62,1.62,0,1,0,1.619,1.62A1.622,1.622,0,0,0,2.844,1.224Z" transform="translate(17.875)" fill="#fff"/>
+    <path id="Fill_19" data-name="Fill 19" d="M2.844,5.687A2.861,2.861,0,0,1,.067,3.456a2.808,2.808,0,0,1,0-1.224A2.861,2.861,0,0,1,2.844,0,2.844,2.844,0,0,1,5.621,3.456,2.861,2.861,0,0,1,2.844,5.687Zm0-4.463a1.62,1.62,0,1,0,1.619,1.62A1.622,1.622,0,0,0,2.844,1.224Z" transform="translate(2.438 8.125)" fill="#fff"/>
+    <g id="Group_23" data-name="Group 23" transform="translate(12.188 16.25)">
+      <path id="Clip_22-2" data-name="Clip 22" d="M0,0H5.688V5.688H0Z" fill="none"/>
+      <g id="Group_23-2" data-name="Group 23" clip-path="url(#clip-path-5)">
+        <path id="Fill_21" data-name="Fill 21" d="M2.844,5.687A2.861,2.861,0,0,1,.067,3.456a2.808,2.808,0,0,1,0-1.224A2.861,2.861,0,0,1,2.844,0,2.844,2.844,0,0,1,5.621,3.456,2.861,2.861,0,0,1,2.844,5.687Zm0-4.463a1.62,1.62,0,1,0,1.619,1.62A1.622,1.622,0,0,0,2.844,1.224Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

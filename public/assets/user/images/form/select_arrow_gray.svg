@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="12.648" viewBox="0 0 8 12.648">
+  <g id="select_arrow_gray" transform="translate(-219 -1)">
+    <g id="_" data-name="▼" transform="translate(219 8.192)">
+      <path id="_2" data-name="▼" d="M4,5.456,8,0H0Z" fill="#898775"/>
+    </g>
+    <g id="_3" data-name="▼" transform="translate(219 1)">
+      <path id="_4" data-name="▼" d="M4-5.456,8,0H0Z" transform="translate(0 5.456)" fill="#898775"/>
+    </g>
+  </g>
+</svg>

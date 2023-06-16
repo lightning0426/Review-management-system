@@ -1,0 +1,11 @@
+<svg id="star10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.912" height="21" viewBox="0 0 21.912 21">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H21.912V21H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path id="Clip_2-2" data-name="Clip 2" d="M0,0H21.912V21H0Z" fill="none"/>
+  <g id="Group_3" data-name="Group 3" clip-path="url(#clip-path)">
+    <path id="Fill_1" data-name="Fill 1" d="M21.478,7.7l-6.594-.749a.488.488,0,0,1-.384-.272L11.4.275a.488.488,0,0,0-.878,0l-3.106,6.4a.488.488,0,0,1-.384.272L.433,7.7a.487.487,0,0,0-.257.859l5.189,4.308a.487.487,0,0,1,.165.478l-1.54,7.066a.488.488,0,0,0,.728.521L10.7,17.342a.488.488,0,0,1,.5,0l5.986,3.588a.488.488,0,0,0,.728-.521l-1.54-7.066a.487.487,0,0,1,.165-.478l5.189-4.308a.487.487,0,0,0-.257-.859" transform="translate(0)" fill="#fec32d"/>
+  </g>
+</svg>

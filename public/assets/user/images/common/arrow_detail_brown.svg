@@ -1,0 +1,16 @@
+<svg id="arrow_detail_brown" xmlns="http://www.w3.org/2000/svg" width="20" height="19.947" viewBox="0 0 20 19.947">
+  <g id="Oval" transform="translate(0 0)" fill="none" stroke="#898775" stroke-miterlimit="10" stroke-width="0.8">
+    <ellipse cx="10" cy="9.973" rx="10" ry="9.973" stroke="none"/>
+    <ellipse cx="10" cy="9.973" rx="9.6" ry="9.573" fill="none"/>
+  </g>
+  <g id="Group_55" data-name="Group 55" transform="translate(5.926 7.781)">
+    <path id="Rectangle_27" data-name="Rectangle 27" d="M2.992,0,2.977,2.977,0,2.992" transform="translate(3.881 2.116) rotate(-45)" fill="#fff" stroke="#898775" stroke-miterlimit="10" stroke-width="0.56"/>
+    <g id="Rectangle">
+      <g id="Rectangle-2" data-name="Rectangle" transform="translate(0 1.918)" fill="#555" stroke-miterlimit="10">
+        <path d="M0,.12H7.741l.176.2-.1.248L7.754.678H0Z" stroke="none"/>
+        <path d="M -1.430511474609375e-06 0.1196833252906799 L 7.741308689117432 0.1196833252906799 L 7.917438983917236 0.3161233067512512 L 7.817389011383057 0.5638933181762695 L 7.754028797149658 0.6781833171844482 L -1.430511474609375e-06 0.6781833171844482 L -1.430511474609375e-06 0.1196833252906799 Z" stroke="none" fill="#898775"/>
+      </g>
+      <path id="Rectangle-3" data-name="Rectangle" d="M0,.12H7.741l.176.2-.1.248L7.754.678H0Z" transform="translate(0 1.918)" fill="none"/>
+    </g>
+  </g>
+</svg>

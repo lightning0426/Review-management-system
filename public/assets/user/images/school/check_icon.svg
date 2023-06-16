@@ -1,0 +1,14 @@
+<svg id="check_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H20V20H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3" data-name="Group 3">
+    <path id="Clip_2-2" data-name="Clip 2" d="M0,0H20V20H0Z" fill="none"/>
+    <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+      <path id="Fill_1" data-name="Fill 1" d="M20,10A10,10,0,1,0,10,20,10,10,0,0,0,20,10" transform="translate(0)" fill="#fec32d"/>
+    </g>
+  </g>
+  <path id="Fill_4" data-name="Fill 4" d="M9.985,1.285,8.7,0,3.841,4.859,1.285,2.3,0,3.588l3.84,3.84h0Z" transform="translate(4.976 6.95)" fill="#fff"/>
+</svg>

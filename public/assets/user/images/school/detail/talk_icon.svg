@@ -1,0 +1,16 @@
+<svg id="talk_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H22V22H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3" data-name="Group 3">
+    <path id="Clip_2-2" data-name="Clip 2" d="M0,0H22V22H0Z" fill="none"/>
+    <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+      <path id="Fill_1" data-name="Fill 1" d="M11,22A11,11,0,1,1,22,11,11.012,11.012,0,0,1,11,22ZM11,.888A10.112,10.112,0,1,0,21.112,11,10.123,10.123,0,0,0,11,.888Z" transform="translate(0)" fill="#404040"/>
+    </g>
+  </g>
+  <path id="Fill_4" data-name="Fill 4" d="M5.292,12.941a.441.441,0,0,1-.444-.444V10.566a5.287,5.287,0,1,1,5.41-3.441c-.789,2.338-2.919,4.283-4.686,5.717A.446.446,0,0,1,5.292,12.941Zm0-12.053a4.4,4.4,0,0,0,0,8.808.445.445,0,0,1,.445.444v1.409C7.777,9.793,8.913,8.34,9.418,6.836a.108.108,0,0,1,0-.012A4.406,4.406,0,0,0,5.292.888Z" transform="translate(5.708 4.756)" fill="#404040"/>
+  <path id="Fill_6" data-name="Fill 6" d="M4.472,0H.444a.444.444,0,1,0,0,.888H4.472a.444.444,0,1,0,0-.888" transform="translate(8.542 8.643)" fill="#404040"/>
+  <path id="Fill_8" data-name="Fill 8" d="M4.472,0H.444a.444.444,0,1,0,0,.888H4.472a.444.444,0,1,0,0-.888" transform="translate(8.542 10.566)" fill="#404040"/>
+</svg>

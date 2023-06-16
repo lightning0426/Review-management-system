@@ -1,0 +1,13 @@
+<svg id="detail_arrow_icon" xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <g id="Oval" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1">
+    <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+    <circle cx="13.5" cy="13.5" r="13" fill="none"/>
+  </g>
+  <g id="Group_55" data-name="Group 55" transform="translate(8 10.532)">
+    <path id="Rectangle_27" data-name="Rectangle 27" d="M4.05,0,4.025,4.025,0,4.05" transform="translate(5.232 2.864) rotate(-45)" fill="#fff"/>
+    <g id="Rectangle">
+      <path id="Rectangle-2" data-name="Rectangle" d="M0,.162H10.451l.238.266-.135.335-.086.155H0Z" transform="translate(0 2.596)" fill="#fff"/>
+      <path id="Rectangle-3" data-name="Rectangle" d="M0,.162H10.451l.238.266-.135.335-.086.155H0Z" transform="translate(0 2.596)" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.891" height="20.891" viewBox="0 0 20.891 20.891">
+  <g id="time_icon" transform="translate(0.446 0.446)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M20,10A10,10,0,1,0,10,20,10,10,0,0,0,20,10Z" fill="none" stroke="#4f4f4f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.891"/>
+    <path id="Stroke_3" data-name="Stroke 3" d="M0,.05H1.164" transform="translate(17.565 9.99)" fill="none" stroke="#4f4f4f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.891"/>
+    <path id="Stroke_5" data-name="Stroke 5" d="M.05,1.164V0" transform="translate(9.99 1.271)" fill="none" stroke="#4f4f4f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.891"/>
+    <path id="Stroke_7" data-name="Stroke 7" d="M1.164.05H0" transform="translate(1.271 9.99)" fill="none" stroke="#4f4f4f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.891"/>
+    <path id="Stroke_9" data-name="Stroke 9" d="M.05,0V1.164" transform="translate(9.99 17.565)" fill="none" stroke="#4f4f4f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.891"/>
+    <path id="Fill_11" data-name="Fill 11" d="M1.558.227a.944.944,0,1,0,.1,1.331.944.944,0,0,0-.1-1.331" transform="translate(9.056 9.056)" fill="#4f4f4f"/>
+    <path id="Stroke_13" data-name="Stroke 13" d="M5.136.05H0" transform="translate(10 9.99)" fill="none" stroke="#4f4f4f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.891"/>
+    <path id="Stroke_15" data-name="Stroke 15" d="M.05,5.895V0" transform="translate(9.99 4.105)" fill="none" stroke="#4f4f4f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.891"/>
+  </g>
+</svg>

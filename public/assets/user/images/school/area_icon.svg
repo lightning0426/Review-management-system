@@ -1,0 +1,14 @@
+<svg id="area_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="22.4" viewBox="0 0 16 22.4">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_4" data-name="Clip 4" d="M0,0H16V22.4H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path id="Fill_1" data-name="Fill 1" d="M4,8A4,4,0,1,1,8,4,4,4,0,0,1,4,8ZM4,.8A3.2,3.2,0,1,0,7.2,4,3.2,3.2,0,0,0,4,.8Z" transform="translate(4 4)" fill="#555"/>
+  <g id="Group_5" data-name="Group 5">
+    <path id="Clip_4-2" data-name="Clip 4" d="M0,0H16V22.4H0Z" fill="none"/>
+    <g id="Group_5-2" data-name="Group 5" clip-path="url(#clip-path)">
+      <path id="Fill_3" data-name="Fill 3" d="M8,22.4a.4.4,0,0,1-.336-.183L1.277,12.338q-.013-.022-.024-.043A8,8,0,1,1,16,8a7.954,7.954,0,0,1-1.253,4.295q-.011.022-.024.043L8.336,22.217A.4.4,0,0,1,8,22.4ZM8,.8A7.2,7.2,0,0,0,1.951,11.9l.13.2.013.022.006.011L8,21.263l5.9-9.127a.3.3,0,0,1,.019-.032l.128-.2A7.2,7.2,0,0,0,8,.8Z" fill="#555"/>
+    </g>
+  </g>
+</svg>

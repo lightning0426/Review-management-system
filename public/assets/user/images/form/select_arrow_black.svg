@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="12.648" viewBox="0 0 8 12.648">
+  <g id="select_arrow_black" transform="translate(-175 -1)">
+    <path id="_" data-name="▼" d="M4,5.456,8,0H0Z" transform="translate(175 8.192)" fill="#3f3f3f"/>
+    <g id="_2" data-name="▼" transform="translate(175 1)">
+      <path id="_3" data-name="▼" d="M4-5.456,8,0H0Z" transform="translate(0 5.456)" fill="#3f3f3f"/>
+    </g>
+  </g>
+</svg>

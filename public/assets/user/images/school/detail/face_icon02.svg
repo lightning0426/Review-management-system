@@ -1,0 +1,16 @@
+<svg id="face_icon02" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_6" data-name="Clip 6" d="M0,0H16V16H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path id="Fill_1" data-name="Fill 1" d="M1.235,0A1.235,1.235,0,1,0,2.469,1.235,1.235,1.235,0,0,0,1.235,0" transform="translate(3.402 5.032)" fill="#1a93c7"/>
+  <path id="Fill_3" data-name="Fill 3" d="M1.235,0A1.235,1.235,0,1,0,2.469,1.235,1.235,1.235,0,0,0,1.235,0" transform="translate(10.129 5.032)" fill="#1a93c7"/>
+  <g id="Group_7" data-name="Group 7">
+    <path id="Clip_6-2" data-name="Clip 6" d="M0,0H16V16H0Z" fill="none"/>
+    <g id="Group_7-2" data-name="Group 7" clip-path="url(#clip-path)">
+      <path id="Fill_5" data-name="Fill 5" d="M8,16a8,8,0,1,1,8-8A8.009,8.009,0,0,1,8,16ZM8,1.156A6.844,6.844,0,1,0,14.845,8,6.852,6.852,0,0,0,8,1.156Z" transform="translate(0)" fill="#1a93c7"/>
+    </g>
+  </g>
+  <path id="Fill_8" data-name="Fill 8" d="M.577,2.246A.578.578,0,0,1,.132,1.3a3.458,3.458,0,0,1,1.1-.872A4.032,4.032,0,0,1,6.03,1.3a.578.578,0,1,1-.892.734,2.918,2.918,0,0,0-3.381-.576,2.293,2.293,0,0,0-.734.576.577.577,0,0,1-.446.211" transform="translate(4.919 9.681)" fill="#1a93c7"/>
+</svg>

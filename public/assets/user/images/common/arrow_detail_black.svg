@@ -1,0 +1,16 @@
+<svg id="arrow_detail_black" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Oval" fill="none" stroke="#555" stroke-miterlimit="10" stroke-width="0.8">
+    <circle cx="11" cy="11" r="11" stroke="none"/>
+    <circle cx="11" cy="11" r="10.6" fill="none"/>
+  </g>
+  <g id="Group_55" data-name="Group 55" transform="translate(6.842 8.582)">
+    <path id="Rectangle_27" data-name="Rectangle 27" d="M3.3,0,3.11,3.11,0,3.3" transform="translate(3.578 2.333) rotate(-45)" fill="#fff" stroke="#555" stroke-miterlimit="10" stroke-width="0.56"/>
+    <g id="Rectangle">
+      <g id="Rectangle-2" data-name="Rectangle" transform="translate(0 2.116)" fill="#555" stroke-miterlimit="10">
+        <path d="M0,.132H7.631l.174.217-.1.273L7.644.748H0Z" stroke="none"/>
+        <path d="M -4.291534423828125e-06 0.1319999694824219 L 7.631455898284912 0.1319999694824219 L 7.805095672607422 0.3486599922180176 L 7.706465721130371 0.621940016746521 L 7.643995761871338 0.7480000257492065 L -4.291534423828125e-06 0.7480000257492065 L -4.291534423828125e-06 0.1319999694824219 Z" stroke="none" fill="#555"/>
+      </g>
+      <path id="Rectangle-3" data-name="Rectangle" d="M0,.132H7.631l.174.217-.1.273L7.644.748H0Z" transform="translate(0 2.116)" fill="none"/>
+    </g>
+  </g>
+</svg>
