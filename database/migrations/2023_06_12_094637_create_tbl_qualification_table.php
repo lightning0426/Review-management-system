@@ -16,7 +16,8 @@ return new class extends Migration
                 $table->increments('id');
                 $table->string('name');
                 $table->timestamps();
-            });
+        });
+
         }
     }
 
@@ -24,7 +25,15 @@ return new class extends Migration
      * Reverse the migrations.
      * 
      */
-    
+    // Schema::create('tbl_nursery', function (Blueprint $table) {
+    //     $table->increments('id');
+    //     $table->string('name');
+    //     $table->string('address');
+    //     $table->unsignedInteger('prefecture_id');
+    //     $table->unsignedInteger('city_id');
+    //     $table->timestamps();
+    //     $table->foreign('prefecture_id')->references('id')->on('tbl_prefecture_region')->onDelete('cascade');
+    //     $table->timestamps();
     public function down(): void
     {
         Schema::dropIfExists('tbl_qualification');

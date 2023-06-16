@@ -6,7 +6,11 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Session;
-use App\Models\User;
+use App\Models\PrefectureRegion;
+use App\Models\City;
+use App\Models\Qual_User;
+use App\Models\Users;
+
 use App\Models\UserVerify;
 use Hash;
 use Illuminate\Support\Str;
@@ -21,7 +25,9 @@ class AuthController extends Controller
      */
     public function index()
     {
+  
         return view('auth.login');
+
     }  
       
     /**
@@ -29,9 +35,34 @@ class AuthController extends Controller
      *
      * @return response()
      */
+    public function getPrefectureRegions(){
+        $prefectureData = PrefectureRegion::select('id','main_id', 'name', 'en_name')->get();
+        $data = compact('prefectureData');
+        return response()->json($data);
+      }
+  
+      public function getCitiesByPrefectureID(Request $request)
+      {
+        // $cities = City::where('prefecture_id', $prefectureId)->get();
+        // $data = compact('cities');
+        // return response()->json($data);
+        
+        $prefecture_id = $request->input('prefecture_id');
+        $cities = City::select('id', 'name','prefecture_id')
+                ->where('prefecture_id', $prefecture_id)
+                ->get();
+   
+        return response()->json($cities);
+      }
+
     public function registration()
     {
-        return view('auth.registration');
+        $prefectureData  = PrefectureRegion::select('id','main_id', 'name', 'en_name')->get();
+        $cityData  = City::select('id', 'name', 'prefecture_id')->get();
+
+        $data1 = compact('prefectureData','cityData');
+  
+        return view('auth.registration',$data1);
     }
       
     /**
@@ -62,30 +93,61 @@ class AuthController extends Controller
      */
     public function postRegistration(Request $request)
     {  
-        $request->validate([
-            'name' => 'required',
-            'email' => 'required|email|unique:users',
-            'password' => 'required|min:6',
-        ]);
+        // $request->validate([
+        //     'name' => 'required',
+        //     'email' => 'required|email|unique:users',
+        //     'password' => 'required|min:6',
+        // ]);
            
         $data = $request->all();
         $createUser = $this->create($data);
   
-        $token = Str::random(64);
+        // $token = Str::random(64);
   
-        UserVerify::create([
-              'user_id' => $createUser->id, 
-              'token' => $token
-            ]);
+        // UserVerify::create([
+        //       'user_id' => $createUser->id, 
+        //       'token' => $token
+        //     ]);
   
-        Mail::send('email.emailVerificationEmail', ['token' => $token], function($message) use($request){
-              $message->to($request->email);
-              $message->subject('Email Verification Mail');
-          });
+        // Mail::send('email.emailVerificationEmail', ['token' => $token], function($message) use($request){
+        //       $message->to($request->email);
+        //       $message->subject('Email Verification Mail');
+        //   });
          
-        return redirect("dashboard")->withSuccess('Great! You have Successfully loggedin');
+        return redirect("")->withSuccess('Great! You have Successfully loggedin');
     }
-    
+     public function create(array $data)
+    {        
+
+        $birthYear = $data['birthday_year'];
+        $birthMonth = str_pad($data['birthday_month'], 2, '0', STR_PAD_LEFT);
+        $birthDay = str_pad($data['birthday_day'], 2, '0', STR_PAD_LEFT);
+        $birthdate = $birthYear . "-" . $birthMonth . "-" . $birthDay;
+
+        $qualifications = [];
+        foreach ($data['qualifications'] as $qualification) {
+            $qualifications[] = $qualification;
+        }
+        
+        // $data['qualifications'] = $qualifications;
+        $createUser = Users::create([
+            'name' => $data['name'],
+            'email' => $data['email'],
+            'password' => Hash::make($data['password']),
+            'gender' => $data['gender'],
+            'birth' => $birthdate,
+            'prefecture_id' => $data['prefecture_id'],
+            'city_id' => $data['city_id'],
+        ]);
+
+        foreach ($data['qualifications'] as $qualification) {
+            Qual_User::create([
+                'user' => $createUser->id,
+                'qualification_id' => $qualification
+            ]);            
+        }
+        return $createUser;
+    }
     /**
      * Write code on Method
      *
@@ -105,14 +167,7 @@ class AuthController extends Controller
      *
      * @return response()
      */
-    public function create(array $data)
-    {
-      return User::create([
-        'name' => $data['name'],
-        'email' => $data['email'],
-        'password' => Hash::make($data['password'])
-      ]);
-    }
+   
       
     /**
      * Write code on Method

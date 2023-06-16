@@ -4,8 +4,10 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Auth\AuthController;
 use App\Http\Controllers\Auth\ForgotPasswordController;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\AnswerController;
 use App\Http\Controllers\DetailViewController;
-use App\Http\Controllers\CompanyController;
+
+use App\Http\Controllers\Auth\UserController;
 
 /*
 |--------------------------------------------------------------------------
@@ -36,18 +38,17 @@ Route::get('reset-password/{token}', [ForgotPasswordController::class, 'showRese
 Route::post('reset-password', [ForgotPasswordController::class, 'submitResetPasswordForm'])->name('reset.password.post');
 
 Route::get('get-prefecture-region',[HomeController::class, 'getPrefectureRegions'])->name('get.prefecture.name');
-Route::get('get-facility',[HomeController::class, 'getFacilities'])->name('get.facility.name');
+Route::get('/get-cities-by-prefecture-id', [AuthController::class, 'getCitiesByPrefectureID']);
+
 Route::get('get-qualification',[HomeController::class, 'getQualifications'])->name('get.qualification');
 
-Route::get('/facility', [DetailViewController::class, 'showByFacility'])->name('get.by.facilictyIds'); 
-Route::get('/nurseries', [DetailViewController::class, 'showNurseries'])->name('get.nurseries'); 
-Route::get('/byprefecture', [DetailViewController::class, 'getByPrefectures'])->name('get.by.prefecture'); 
-// Route::get('/{prefecture}', [DetailViewController::class, 'showByPrefecture'])->name('get.by.prefecture'); 
-
-Route::get('/company', [CompanyController::class, 'showCompanies'])->name('get.copmanies'); 
-Route::get('/company/{id}', [CompanyController::class, 'showCompanyById'])->name('get.by.companyid'); 
-
+// Route::get('/{prefecture}', [DetailViewController::class, 'showByPrefecture']); 
+Route::get('/cities/{prefectureId}', [AuthController::class, 'getCitiesByPrefecture']);
 
 Route::get('dashboard', [AuthController::class, 'dashboard'])->middleware(['auth', 'is_verify_email']); 
 Route::get('account/verify/{token}', [AuthController::class, 'verifyAccount'])->name('user.verify'); 
 
+// Route::get('confirm',[UserController::class, 'postRegistration'])->name('comfirm.post');
+
+Route::get('answer', [AnswerController::class, 'answer'])->name('answer');
+// Route::post('post-registrater', [AuthController::class, 'postRegistration'])->name('register.post'); 
